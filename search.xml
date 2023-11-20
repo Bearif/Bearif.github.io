@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>My new post</title>
+      <link href="/post/4e31b9d2.html"/>
+      <url>/post/4e31b9d2.html</url>
+      
+        <content type="html"><![CDATA[<p>This is a new test page</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> new </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/post/4a17b156.html"/>
       <url>/post/4a17b156.html</url>
